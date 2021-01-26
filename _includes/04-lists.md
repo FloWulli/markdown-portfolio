@@ -10,7 +10,7 @@
 	*Football
 	*Running
 *Gaming
-	-Oxygen Not Included
-	-Dota Auto Chess
-	-Civilizations 6
-	-Age of Empires
+	*Oxygen Not Included
+	*Dota Auto Chess
+	*Civilizations 6
+	*Age of Empires
