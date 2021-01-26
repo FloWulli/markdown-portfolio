@@ -5,12 +5,12 @@
 2. Github
 3. Blender
 
-*Sports
-	*Soccer
-	*Football
-	*Running
-*Gaming
-	*Oxygen Not Included
-	*Dota Auto Chess
-	*Civilizations 6
-	*Age of Empires
+* Sports
+	* Soccer
+	* Football
+	* Running
+* Gaming
+	- Oxygen Not Included
+	- Dota Auto Chess
+	- Civilizations 6
+	- Age of Empires
